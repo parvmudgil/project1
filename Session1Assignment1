@@ -1,0 +1,41 @@
+Q1
+The various sources of Big data include
+-Content on Social Media
+-Blogs
+-Youtube etc.
+-Business applications
+-E-commerce websites
+-Banking apps
+-Sensor Data(Example- Metro ticket sales, bus tickets, movies etc)
+
+
+Q2
+3 V's of Big Data
+-Volume - It means that the data big be in huge amount , in terabytes minimum
+-Variety - It means that the data will be of various types , eg , text, video, audio.
+-Velocity- The data will be incoming at a great pace.
+
+
+Q3
+Horizontal Scaling and Vertical Scaling
+Horizaontal Scaling -(Scale out) which is actually more effictive way of increasing 
+cacacity means that you increase the number of machines.
+Vertical Scaling -(Scale up) means that you increase the capacity(RAM,processing power,storage)
+of a single machine which has limitations.
+
+
+Q4
+Need and Working of Hadoop
+When dealing with BIG DATA , we come across two main problems
+1) Storage
+2) Processing
+To deal with these two issues , we have Hadoop , which solves these problems for us.
+The definition-
+The Apache Hadoop software library is a framework that allows for the distributed processing of large
+data sets across clusters of computers using simple programming models. It is designed to scale up from
+single servers to thousands of machines, each offering local computation and storage. Rather than rely 
+on hardware to deliver high-availability, the library itself is designed to detect and handle failures at
+the application layer, so delivering a highly available service on top of a cluster of computers, each of 
+which may be prone to failures.
+Hadoop Distributed Filesystem (HDFS)-the Hadoop component that holds the actual data.
+Data Processing Framework-tool used to work with the data.
